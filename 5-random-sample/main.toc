@@ -1,0 +1,2 @@
+\babel@toc {nil}{}
+\contentsline {section}{\numberline {1}Basic Concepts of Random Samples}{3}{section.1}%
